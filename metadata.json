@@ -1,0 +1,11 @@
+{
+  "name": "HRPro \u0026 Payroll 2026.1",
+  "description": "Aplikasi HRD profesional enterprise: absensi GPS, kelola cuti, rekrutmen ATS, slip gaji PPh 21, dan penilaian kinerja karyawan.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
